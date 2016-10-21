@@ -1,0 +1,27 @@
+﻿Personal Project 
+Nicholas Foisy
+
+I want to do some sort of YouTube clone, using PHP. It is not meant to be used, it's meant to be a physical manifestation of the coding lessons I will take over the school 
+year. I will use the time in class to take coding lessons and to actually make the site.
+
+Features:
+make an account
+upload videos
+browse categories of videos
+search videos
+upvote/downvote videos
+comment on videos
+subscribe to accounts
+see subscriptions
+see recommended videos
+pretty much a youtube clone
+
+I have no idea how long it will take. Months? (Note that the learning how to make the website will take longer than making it)
+
+user story: 
+I want to upload videos so my friends can see, and YouTube, Dailymotion, Vimeo, etc is t̶o̶o̶ ̶c̶o̶n̶v̶e̶n̶i̶e̶n̶t̶ is a goverment run program to capture the lives of everyone and sell their 
+data to terrorists, so I want a website that will deliver the general features of a video sharing website - anonymous user
+
+I want to check out videos related to Music, so I used this website's 'Music' category to see popular music - musicfan123
+
+I'm very bitter and negative, so I want to downvote every single thing I see, because of the emptiness in my heart, and this is perfect - ihatepuppies
